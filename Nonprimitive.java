@@ -13,6 +13,14 @@ public class Nonprimitive {
 				arr[3]=40;
 				arr[4]=50;
 				System.out.println(arr[4]);//+to give the total size of array.
+				// String
+				
+					String name = "saafdsffdsghggdsdfg";//
+					System.out.println(name.length());//=>.length() is method,to give the total size of string
+					System.out.println(name);
+					String sam="123445678";
+					System.out.println(sam);
+
 				
 	}
 
