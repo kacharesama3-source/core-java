@@ -21,8 +21,22 @@ public class Logical_AND {
 		System.out.println(a<90&& b>390);//F &&F =>F
 		System.out.println(a<200&& b>346);//T&&F=>F
 		System.out.println(a>150&& b>340);//F&&T=>F
+		// if else loop
+		if ( a>120 && b<460)
+			System.out.println(true);
+		else
+			System.out.println(false);
+		//while loop => both condition true then output true
+		
+		     int i  = 1;
+		     while (i<=10 && i%2==1)
+		    	 System.out.println("i-"+i);
+		     i+=2;
+		     
+		        
+		    }
+		}
+
 		
 
-	}
-
-}
+	
