@@ -12,7 +12,7 @@ public class Shorthand {
 		
 		System.out.println(num);//56
 		System.out.println(num*4);//56*4
-		System.out.println(56*4);
+		System.out.println(56*4); //254
 	
 		
 		

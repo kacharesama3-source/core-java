@@ -26,6 +26,7 @@ public class arithmatic {
 			//System.out.println(--num +100 +num++ +num--);
 			                  // 117.35+100+117.35+118.35
 		
+		
 		   
 
 	}

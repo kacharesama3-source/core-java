@@ -26,13 +26,7 @@ public class Logical_AND {
 			System.out.println(true);
 		else
 			System.out.println(false);
-		//while loop => both condition true then output true
 		
-		     int i  = 1;
-		     while (i<=10 && i%2==1)
-		    	 System.out.println("i-"+i);
-		     i+=2;
-		     
 		        
 		    }
 		}

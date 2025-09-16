@@ -18,7 +18,7 @@ public class specialcase {
 	     System.out.println(sam+age);
 	     System.out.println(str+salary);
 	     
-	     //int store only whole number(age,cars,house)
+	     //int store only whole number( total no of age,cars,house)
 	     //float store decimal number (salary,bankblance,whight)
 	     //double store same as a float but large value
 	     //char store only one value at a time in single quote

@@ -13,6 +13,7 @@ public class Logical_OR {
 		
 		System.out.println(a<20||b>35||c<40 );// F||F||T=>T
 		// condition statement  
+		//control alter t command
 		//1) if else condtion
 		if(a>=20|| b<=50||c <=40) {
 			System.out.println("conditioon passed");

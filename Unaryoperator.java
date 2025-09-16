@@ -9,7 +9,7 @@ public class Unaryoperator {
 		System.out.println(-20);//-10
 		System.out.println(++a);//11(pre-increment)
 		System.out.println(--b);//19(pre-decrement)
-		System.out.println(!flag);//flase
+		System.out.println(!flag);//false
 		System.out.println(~5);//-6
 		
 		
